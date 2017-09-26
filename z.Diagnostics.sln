@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Diagnostics", "z.Diagnostics.csproj", "{BF2BCB40-7DB3-4CD4-8F06-D4EF705669F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2BCB40-7DB3-4CD4-8F06-D4EF705669F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2BCB40-7DB3-4CD4-8F06-D4EF705669F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2BCB40-7DB3-4CD4-8F06-D4EF705669F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2BCB40-7DB3-4CD4-8F06-D4EF705669F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tofilagman.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = z.Diagnostics.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
